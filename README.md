@@ -20,18 +20,18 @@ Los modelos de cerveza utilizados para este primer programa son:
 
 Cuando el programa detecta durante ms de 5 segundos, y con un alto porcentaje de confianza (+95%) un modelo de cerceza, el programa abre la página web de la wikipedia para mostrar información adicional del producto que se está mostrnado por la webcam.
 
-Próximas implementaciones:
-
-- [ ] Crear una extensa base de datos de cervezas artesanales.
-- [ ] Añadir más opciones para mostrar información sobre las distintas cervezas artesnales a través de web scraping de distintas páginas o APIs donde muestren valoraciones y opiniones de usuarios sobre el producto.
-- [ ] Detectar mediante geolocalización el punto de venta más cercano del producto en cuestión.
-
-
 ## Archivos
 
 - BeerTective.py: El programa de detección de modelos de cerveza. Abrirá la webcam para que muestres algunos de los modelos de cerveza con los que ha sido entrenado.
 - Creating DataBase (Video&Split).ipynb: Jupyter Notebook mediante el cual se ha conseguido grabar y splitear los videos para crear la base de datos.
 - Modelo_Final.ipynb: Archivo de Jupyter Notebook donde se se encuentra el modelo de CNN que se ha utilizado como modelo.
+
+## Próximas implementaciones:
+
+- [ ] Crear una extensa base de datos de cervezas artesanales.
+- [ ] Añadir más opciones para mostrar información sobre las distintas cervezas artesnales a través de web scraping de distintas páginas o APIs donde muestren valoraciones y opiniones de usuarios sobre el producto.
+- [ ] Detectar mediante geolocalización el punto de venta más cercano del producto en cuestión.
+
 ---------------------------------------------------------
 
 
