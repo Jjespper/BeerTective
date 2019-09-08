@@ -26,6 +26,14 @@ Cuando el programa detecta durante ms de 5 segundos, y con un alto porcentaje de
 - Creating DataBase (Video&Split).ipynb: Jupyter Notebook mediante el cual se ha conseguido grabar y splitear los videos para crear la base de datos.
 - Modelo_Final.ipynb: Archivo de Jupyter Notebook donde se se encuentra el modelo de CNN que se ha utilizado como modelo.
 
+## Principales librerias utilizadas:
+
+- OpenCV
+- NumPy
+- Keras
+- TensorFlow
+
+
 ## Próximas implementaciones:
 
 - [ ] Crear una extensa base de datos de cervezas artesanales.
