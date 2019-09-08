@@ -3,7 +3,7 @@
 
 BeerTective es un programa que, mediante el procesamiento de imágenes por webcam, es capaz de reconocer distintos modelos de cervezas para posteriormente mostrarte información adicional sobre estas. 
 
-**PROCESO**
+## PROCESO
 La base de datos desde la que se basa el programa tuvo que se creada a partir de imágenes grabadas desde la propia webcam.
 Mediante la grabación de video y la posterior divisón por frames se pudo crear una base de datos suficiente para poder trabajar en el modelo de clasificación de imágenes. Cada modelo tiene alrededor de unas 600 imágenes.
 
@@ -27,7 +27,11 @@ Próximas implementaciones:
 - [ ] Detectar mediante geolocalización el punto de venta más cercano del producto en cuestión.
 
 
+## Archivos
 
+- BeerTective.py: El programa de detección de modelos de cerveza. Abrirá la webcam para que muestres algunos de los modelos de cerveza con los que ha sido entrenado.
+- Creating DataBase (Video&Split).ipynb: Jupyter Notebook mediante el cual se ha conseguido grabar y splitear los videos para crear la base de datos.
+- Modelo_Final.ipynb: Archivo de Jupyter Notebook donde se se encuentra el modelo de CNN que se ha utilizado como modelo.
 ---------------------------------------------------------
 
 
