@@ -32,6 +32,10 @@ Cuando el programa detecta durante ms de 5 segundos, y con un alto porcentaje de
 - [ ] Añadir más opciones para mostrar información sobre las distintas cervezas artesnales a través de web scraping de distintas páginas o APIs donde muestren valoraciones y opiniones de usuarios sobre el producto.
 - [ ] Detectar mediante geolocalización el punto de venta más cercano del producto en cuestión.
 
+## NOTAS:
+
+El modelo al estar guardado en local, el programa no se puede ejecutar desde remoto.
+
 ---------------------------------------------------------
 
 
