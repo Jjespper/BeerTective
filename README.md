@@ -34,7 +34,7 @@ Cuando el programa detecta durante ms de 5 segundos, y con un alto porcentaje de
 
 ## NOTAS:
 
-El modelo al estar guardado en local, el programa no se puede ejecutar desde remoto.
+El modelo al estar guardado en local, el programa no se podrá ejecutar desde remoto.
 
 ---------------------------------------------------------
 
