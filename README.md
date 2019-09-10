@@ -4,7 +4,7 @@
 BeerTective es un programa que, mediante el procesamiento de imágenes por webcam, es capaz de reconocer distintos modelos de cervezas para posteriormente mostrarte información adicional sobre estas. 
 
 ## PROCESO
-La base de datos desde la que se basa el programa tuvo que se creada a partir de imágenes grabadas desde la propia webcam.
+La base de datos desde la que se basa el programa ha sido creada a partir de imágenes grabadas desde la propia webcam.
 Mediante la grabación de video y la posterior divisón por frames se pudo crear una base de datos suficiente para poder trabajar en el modelo de clasificación de imágenes. Cada modelo tiene alrededor de unas 600 imágenes.
 
 Una vez creada la base de datos, se lleva entrena un modelo de red neuronal convolucional[1] capaz de detectar y clasificar de forma eficaz los distintos modelos de cerveza de la base de datos.
