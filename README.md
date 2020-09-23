@@ -1,7 +1,7 @@
 # Proyecto Final IronHack 
 ## BeerTective
 
-BeerTective es un programa que, mediante el procesamiento de imágenes por webcam, es capaz de reconocer distintos modelos de cervezas para posteriormente mostrarte información adicional sobre estas. 
+BeerTective es un programa que mediante el procesamiento de imágenes por webcam es capaz de reconocer distintos modelos de cervezas para posteriormente mostrarte información adicional sobre estas. 
 
 ## PROCESO
 La base de datos desde la que se basa el programa ha sido creada a partir de imágenes grabadas desde la propia webcam.
